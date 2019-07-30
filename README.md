@@ -21,4 +21,13 @@ script works around this limitation.
 2. In the checkout directory, run
 ```
 ./scan.sh <target code> <output directory>
+```
+
+## Docker usage
+
+1. Clone the repository
+2. In the checkout directory, run
+```
+./docker.sh <target code> <output directory>
+```
 
